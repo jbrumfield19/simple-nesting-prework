@@ -127,5 +127,5 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-adding_to_dennis = programmer_hash.update(:dennis_ritchie =>{:known_for => "Unix",'Assembly'})
+adding_to_dennis = programmer_hash.update(:dennis_ritchie =>{:known_for => "Unix",'Assembly'}=>)
 end
